@@ -6,5 +6,7 @@ a small list of coding projects geared towards children
 
 [Hour of Code](https://hourofcode.com/us/learn): Hour of Code has tutorials that can be done within one hour from the browser. Their tutorials are categorized by grades: Pre-reader, Grades 2-5, Grades 6-8, and Grades 9+. 
 
+[Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/worksheets): Provides worksheets that "guides childen to create a game or interactive project that demonstrates a real-world use of artificial intelligence and machine learning."
+
 ## Repos
 https://github.com/ilyaresh/coding-for-kids
