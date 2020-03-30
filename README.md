@@ -6,6 +6,8 @@ a small list of coding projects geared towards children
 
 [Hour of Code](https://hourofcode.com/us/learn): Hour of Code has tutorials that can be done within one hour from the browser. Their tutorials are categorized by grades: Pre-reader, Grades 2-5, Grades 6-8, and Grades 9+. 
 
+[Khan Academy Hour of Code](https://www.khanacademy.org/hourofcode): Khan Academy has a few courses to introduce students ages 8 and above to computer programming in JavaScript, HTML/CSS, and SQL.
+
 [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/worksheets): Provides worksheets that "guides childen to create a game or interactive project that demonstrates a real-world use of artificial intelligence and machine learning." Looks like you can work on a project from the [browser](https://machinelearningforkids.co.uk/#!/projects).
 
 ## Repos
